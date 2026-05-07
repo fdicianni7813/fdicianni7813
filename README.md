@@ -1,16 +1,20 @@
-## Hi there 👋
+# Francesco Di Cianni
 
-<!--
-**fdicianni7813/fdicianni7813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on Data Analytics, Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- VS Code
+- Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Machine Learning
+- Data Analysis
+- SQL
+- Git & GitHub
+
+## Contacts
+- LinkedIn: [LinkedIn Profile](TUO_LINK)
