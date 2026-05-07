@@ -17,4 +17,4 @@ Computer Science student focused on Data Analytics, Artificial Intelligence and 
 - Git & GitHub
 
 ## Contacts
-- LinkedIn: [LinkedIn Profile]([www.linkedin.com/in/francesco-di-cianni-9a5752334](https://www.linkedin.com/in/francesco-di-cianni-9a5752334/?skipRedirect=true))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/francesco-di-cianni-9a5752334/?skipRedirect=true)
