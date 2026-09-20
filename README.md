@@ -110,6 +110,18 @@ Where the dataset is born: generation, cleaning, exploratory analysis, then an i
 - Machine Learning fundamentals
 - Statistical analysis for business decisions
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fdicianni7813/fdicianni7813/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fdicianni7813/fdicianni7813/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/fdicianni7813/fdicianni7813/output/snake.svg" width="100%" alt="A snake moving across my GitHub contribution graph and eating the contribution squares" />
+</picture>
+
+</div>
+
 ## 📫 Get in touch
 
 <div align="center">
