@@ -20,6 +20,10 @@ I build end-to-end analytics projects: from raw data and cleaning, through SQL q
 
 ## 📊 Portfolio Projects
 
+<div align="center">
+  <img src="./assets/pipeline.svg" width="100%" alt="One dataset of 1,000 retail transactions analysed three ways: Python with Pandas, Streamlit and Plotly; SQL with SQLite, CTEs and views; Power BI with DAX, Power Query and a star schema." />
+</div>
+
 | Project | Stack | What it covers |
 | --- | --- | --- |
 | [Retail Power BI Dashboard](https://github.com/fdicianni7813/retail-powerbi-dashboard) | Power BI · DAX · Power Query | Star schema data model, 10 business KPIs, four-page report on sales, customers and inventory |
@@ -97,32 +101,7 @@ Where the dataset is born: generation, cleaning, exploratory analysis, then an i
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-
-**Data & Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-
-**Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-E8A400?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-**Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
-
+  <img src="./assets/stack.svg" width="100%" alt="Data &amp; Analysis: Python, Pandas, NumPy, SQL, SQLite, Excel. Visualization &amp; BI: Power BI, DAX, Power Query, Streamlit, Plotly, Matplotlib. Workflow: Git, GitHub, Jupyter, VS Code." />
 </div>
 
 ## 🌱 Currently Learning
