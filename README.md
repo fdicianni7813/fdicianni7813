@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2C9AB7&center=true&vCenter=true&width=620&height=40&lines=Computer+Science+student;Raw+data+%E2%86%92+SQL+%E2%86%92+dashboards;One+retail+business%2C+three+tools;Python+%C2%B7+SQL+%C2%B7+Power+BI" alt="Computer Science student · Raw data → SQL → dashboards · One retail business, three tools" />
 </a>
 
-<a href="https://retail-sales-analysis-fdc7813.streamlit.app/"><img src="https://img.shields.io/badge/▶%20Live%20Demo-Retail%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo: Retail Dashboard" /></a>
+<a href="https://retail-sales-analysis-fdc7813.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Retail%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a1a1a" alt="Live demo: Retail Dashboard" /></a>
 <a href="https://www.linkedin.com/in/francesco-di-cianni-9a5752334/"><img src="https://img.shields.io/badge/LinkedIn-Francesco%20Di%20Cianni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/fdicianni7813?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-3%20projects-2C9AB7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio: 3 projects" /></a>
 
